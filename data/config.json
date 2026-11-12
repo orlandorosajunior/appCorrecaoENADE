@@ -1,0 +1,11 @@
+{
+  "ia_provider": "groq",
+  "gemini_api_key": "",
+  "gemini_model": "gemini-3.6-flash",
+  "groq_api_key": "",
+  "groq_model": "qwen/qwen3.8-27b",
+  "fill_threshold": 0.15,
+  "relative_margin": 1.15,
+  "discursiva_nota_max_padrao": 31.25,
+  "peso_discursiva_pontos": 31.25
+}
